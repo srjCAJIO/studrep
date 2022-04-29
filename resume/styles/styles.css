@@ -1,0 +1,143 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+    background: #F5F7FA;
+    
+}
+
+a{
+    color: #69707A;
+    text-decoration: none;
+}
+
+.m-content {
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row-reverse;
+    background: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.m-info{
+    padding: 102px 217px 107px 88px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.section-about {
+    width: 400px;
+}
+
+.about-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 24px;
+    margin-bottom: 0px;
+
+}
+.acent-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 19px;
+    margin-bottom: 0px;
+}
+
+.section-subtitle {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+.specialty {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 11px;
+    margin-bottom: 0px;
+}
+
+.p-list {
+    padding-inline-start: 0px;
+    margin-top: 8px;
+    margin-left: 15px;
+    font-weight: 700;
+}
+
+.project-link {
+    font-weight: 400;
+    color: #69707A;
+    padding-left: 5px;
+}
+
+.bold {
+    color: #000000;
+}
+
+.orange-text {
+    color: #FB6D3A;
+}
+
+.date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.w-list {
+    padding-inline-start: 0px;
+    margin-top: 8px;
+    margin-left: 12px;
+    color: #595959;
+}
+
+.w-list-item {
+    padding-left: 5px;
+}
+
+.sidebar{
+    box-sizing: border-box;
+    width: 370px;
+    background-color: #1E2939;
+    padding: 40px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.c-items {
+    display: flex;
+    margin-top: 8px;
+}
+
+.section-title{
+    margin-top: 46px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.s-list{
+    padding-inline-start: 0px;
+    color: #FB6D3A;
+    margin: 8px 40px 0px 12px;
+}
+
+.l-item{
+    margin-left: 5px;
+    color: #fff;
+    font-weight: 400;
+}
+
